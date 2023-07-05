@@ -25,9 +25,7 @@ FindMe is a FlutterFlow project that demonstrates how to access the user's curre
 
 ## Screenshots
 
-Include some screenshots or GIFs showcasing the app's UI and functionality. For example:
-
-![Screenshot 1](blob:https://web.whatsapp.com/690ff6d0-dd30-4fd9-b3b3-b06cb4302c21)
+[![Capture.png](https://i.postimg.cc/HktyQqNL/Capture.png)](https://postimg.cc/68yqKmts)
 
 ## Resources
 
