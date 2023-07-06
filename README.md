@@ -1,41 +1,20 @@
-# FindMe--Location-Detector
-FindMe is a FlutterFlow project that demonstrates how to access the user's current location. It serves as a location detection app, allowing users to retrieve their current geographical coordinates.
+# TestProject
 
-## Features
+A new Flutter project.
 
-- Accesses the device's location using the device's GPS or network providers.
-- Retrieves the latitude and longitude coordinates of the user's current location.
-- Displays the location on a map interface, providing a visual representation.
+## Getting Started
 
-## Installation
+FlutterFlow projects are built to run on the Flutter _stable_ release.
 
-1. Clone the repository or download the project files.
-2. Make sure you have Flutter installed on your system.
-3. Run `flutter pub get` to install the required dependencies.
-4. Connect a device or emulator.
-5. Run `flutter run` to start the app.
+### Getting started continued:
 
-## Usage
+This project is a starting point for a Flutter application.
 
-1. Launch the app on your device.
-2. Grant the necessary permissions to access the device's location.
-3. The app will attempt to retrieve your current location.
-4. Once the location is obtained, it will be displayed on the map interface.
-5. You can interact with the map to zoom in/out or navigate to other locations.
+A few resources to get you started if this is your first Flutter project:
 
-## Screenshots
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-[![Capture.png](https://i.postimg.cc/HktyQqNL/Capture.png)](https://postimg.cc/68yqKmts)
-
-## Resources
-
-- [Flutter Documentation](https://flutter.dev/docs)
-- [FlutterFlow Documentation](https://docs.flutterflow.io)
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-## License
-
-MIT License
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
